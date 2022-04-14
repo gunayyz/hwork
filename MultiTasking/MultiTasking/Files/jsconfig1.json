@@ -1,0 +1,49 @@
+{
+  "Id": 1,
+  "items": [
+    {
+      "Id": 1,
+      "TotalPrice": 10.0,
+      "Count": 2,
+      "vegetable": {
+        "Id": 1,
+        "Name": "Broccoli",
+        "Price": 5.0
+      }
+
+
+      {
+        "Id": 2,
+        "TotalPrice": 15.0,
+        "Count": 1,
+        "product": {
+          "Id": 2,
+          "Name": "peas",
+          "Price": 15.0
+        }
+      }
+
+    {
+      "Id": 3,
+      "TotalPrice": 6.0,
+      "Count": 1,
+      "product": {
+        "Id": 3,
+        "Name": "Carrot",
+        "Price": 6.0
+      }
+    
+        {
+          "Id": 4,
+          "TotalPrice": 45.0,
+          "Count": 3,
+          "product": {
+            "Id": 3,
+            "Name": "Mushroom",
+            "Price": 15.0
+          }
+        }
+
+      }
+  ]
+}
